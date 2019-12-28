@@ -1,8 +1,8 @@
-This make file allow you to one command to show your work to the world
+This makefile allow you to run just one command and show your work to the world.
 
-## required software
+## required
 
-- git intalled
+- git
 - makefile env is ready
 - hub is ready [hub](https://hub.github.com/hub-create.1.html)
 
