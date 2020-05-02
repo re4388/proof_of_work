@@ -3,10 +3,11 @@ This make file allow you to one command to show your work to the world
 ## required software
 
 - git intalled
-- makefile env is ready
-- hub is ready [hub](https://hub.github.com/hub-create.1.html)
+- you can run `make` command
+- hub is required [hub](https://hub.github.com/hub-create.1.html)
 
 
 ## Usgae
 
-Put this makefile into the repo and `make pof`
+1. Put this makefile into the repo
+2. run `make pof`
